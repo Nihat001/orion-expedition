@@ -1,0 +1,4 @@
+Jupiter 1000
+Saturn 500
+Neptune 200
+Mars 4000
