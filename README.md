@@ -1,6 +1,6 @@
 # orion-expedition
 
- (Final project for course Object Oriented Programming at ELTE University BSc) 
+ (Final project for course Object Oriented Programming at ELTE University BSc) (Java)
 
 
 Task Description
