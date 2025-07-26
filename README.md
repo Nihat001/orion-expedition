@@ -5,7 +5,6 @@
 
 Task Description
 
-
 Orion Expedition
 
 In the vast reaches of space, a powerful space shuttle embarks on a voyage
